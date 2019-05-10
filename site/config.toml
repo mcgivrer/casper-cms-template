@@ -1,8 +1,8 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "Casper Theme"
+title = "McG's adventures"
 theme = "hugo-theme-casper"
-disqusShortname = "spf13"
+disqusShortname = "mcgivrer"
 # Enable Google Analytics by inserting your tracking code
 googleAnalytics = ""
 # Define how many posts should appear on a site
@@ -12,19 +12,19 @@ canonifyurls = true
 [params]
   description = "this is my description"
   cover = "images/cover.jpg"
-  author = "Valère JEANTET"
-  authorlocation = "Paris, France"
-  authorwebsite = "http://vjeantet.fr"
+  author = "Frédéric Delorme"
+  authorlocation = "Strasbourg, France"
+  authorwebsite = "http://mcgivrer.fr"
   bio= "my bio"
   logo = "images/logo.png"
   googleAnalyticsUserID = "UA-79101-12"
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
   RSSLink = "http://feeds.feedburner.com/..."
-  githubName = "vjeantet"
-  twitterName = "vjeantet"
+  githubName = "mcgivrer"
+  twitterName = "mcgivrer"
   # facebookName = ""
   # linkedinName = ""
   # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
   hideHUGOSupport = false
   [params.social]
-    twitter = "your_twitter"
+    twitter = "mcgivrer"
