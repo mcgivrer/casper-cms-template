@@ -10,12 +10,12 @@ paginate = 10
 canonifyurls = true
 
 [params]
-  description = "this is my description"
+  description = "McGivrer's code adventure"
   cover = "images/cover.jpg"
   author = "Frédéric Delorme"
   authorlocation = "Strasbourg, France"
   authorwebsite = "http://mcgivrer.fr"
-  bio= "my bio"
+  bio= "Software craftman believer-in and builder"
   logo = "images/logo.png"
   googleAnalyticsUserID = "UA-79101-12"
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
