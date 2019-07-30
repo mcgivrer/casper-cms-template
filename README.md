@@ -1,6 +1,7 @@
 # Victor Hugo CMS Template
 <!-- Markdown snippet -->
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/bdougie/casper-cms-template)
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f69ae4f8-362e-46ab-aa53-411f5855c448/deploy-status)](https://app.netlify.com/sites/mcgivrer/deploys)[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/bdougie/casper-cms-template)
 
 ![casper theme image](https://s3-us-west-1.amazonaws.com/publis-brian-images/casper.jpg)
 
