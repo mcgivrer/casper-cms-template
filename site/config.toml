@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "McG's adventures"
+title = "McG's Adventures"
 theme = "hugo-theme-casper"
 disqusShortname = "mcgivrer"
 # Enable Google Analytics by inserting your tracking code
@@ -10,7 +10,7 @@ paginate = 10
 canonifyurls = true
 
 [params]
-  description = "McGivrer's code adventure"
+  description = "McGivrer's code Adventure"
   cover = "images/cover.jpg"
   author = "Frédéric Delorme"
   authorlocation = "Strasbourg, France"
